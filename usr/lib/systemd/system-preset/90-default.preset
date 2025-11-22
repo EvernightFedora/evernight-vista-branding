@@ -486,3 +486,6 @@ enable scx_loader.service
 
 # Enable ananicy-cpp Engine
 enable ananicy-cpp.service
+
+# Enable KSM Engine
+enable ksmd.service
