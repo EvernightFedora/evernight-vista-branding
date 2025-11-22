@@ -475,8 +475,14 @@ enable fips-crypto-policy-overlay.service
 # https://bugzilla.redhat.com/show_bug.cgi?id=2358608
 enable gpio-manager.service
 
-# Enable preload.service
-enable preload.service
+# Enable pci-latency.service
+enable pci-latency.service
 
 # Enable Huawei MateBook Touchscreen
 enable huawei-touchscreen.service
+
+# Enable SCX Performance Engine
+enable scx_loader.service
+
+# Enable ananicy-cpp Service
+enable ananicy-cpp.service
