@@ -484,5 +484,5 @@ enable huawei-touchscreen.service
 # Enable SCX Performance Engine
 enable scx_loader.service
 
-# Enable ananicy-cpp Service
+# Enable ananicy-cpp Engine
 enable ananicy-cpp.service
