@@ -489,3 +489,7 @@ enable ananicy-cpp.service
 
 # Enable KSM Engine
 enable ksmd.service
+
+# Enable KMSCON Service
+enable kmsconvt@tty1.service
+disable getty@tty1.service
