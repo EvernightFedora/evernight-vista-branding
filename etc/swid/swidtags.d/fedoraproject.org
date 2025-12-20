@@ -1,1 +1,1 @@
-../../../usr/lib/swidtag/fedoraproject.org
+usr/lib/swidtag/fedoraproject.org
