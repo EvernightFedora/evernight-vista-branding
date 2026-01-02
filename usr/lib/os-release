@@ -1,11 +1,11 @@
 NAME="Evernight Vista"
-VERSION="43"
+VERSION="43.1"
 RELEASE_TYPE=stable
 ID=fedora
 VERSION_ID=43
 VERSION_CODENAME="Utopia"
 PLATFORM_ID="platform:f43"
-PRETTY_NAME="Evernight Vista 43"
+PRETTY_NAME="Evernight Vista 43.1"
 ANSI_COLOR="0;38;2;60;110;180"
 LOGO=fedora-logo-icon
 CPE_NAME="cpe:/o:fedoraproject:fedora:43"
