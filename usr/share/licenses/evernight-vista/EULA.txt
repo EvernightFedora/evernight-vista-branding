@@ -1,6 +1,6 @@
 长夜月玩Fedora 软件最终用户许可协议
 
-EVERNIGHT VISTA 43 OPERATING SYSTEM
+EVERNIGHT VISTA 43.1 OPERATING SYSTEM
 
 重要须知 - 请仔细阅读：本最终用户许可协议（《
 协议》）是您（个人或单一实体）与 长夜月玩Fedora 项目组
@@ -57,11 +57,7 @@ Evernight Vista 操作系统仅仅使用 Fedora 软件包、代码和存储库�
 1.7 商用限制。您不得对‘长夜月操作系统’进行商业用途并牟取利润，严禁在电商平台售卖‘长夜月操作系统’
 媒体介质以获得盈利，除非您获得长夜月玩Fedora项目组和米哈游公司的相关批准
 
-1.8 壁纸版权 部分“长夜月”壁纸/同人壁纸版权归原作者所有，这些内置的壁纸只能在Evernight Vista操作系统软件使用
-同时必须接受各个原作者的“协议”要求，相关的专有壁纸您不得公开到具有公开性质的网站（或平台）。
-有关壁纸的原作者，请参阅/usr/share/licenses/evernight-vista-wallpaper/COPYING
-
-1.9 Evernight Vista 操作系统独立组件 如果你想使用Evernight Vista独立的组件（即RPM包）
+1.8 Evernight Vista 操作系统独立组件 如果你想使用Evernight Vista独立的组件（即RPM包）
 制作其他Linux发行版，则必须在显眼的地方注明
 
 2 违反本《协议》的处理。如果您违反了本《协议》
@@ -84,8 +80,8 @@ LVFS（Linux Vendor Firmware Service）（Linux 固件服务供应商）提供
 ‘长夜月操作系统’不担保因使用fwupd更新硬件或固件带来的损坏或丢失数据
 
 4 关于本《协议》的相关问题。如您对本最终用户许可协议有任何问题，或如您因任
-何原因希望联系长夜月玩Fedora，请在B站（哔哩哔哩）、小红书或Evernight Insider QQ群
+何原因希望联系长夜月玩Fedora，请在B站（哔哩哔哩）、小红书或Evernight Planet QQ群
 中与长夜月玩Fedora联系。
 
 © Evernight Vista Team 保留所有权利。
-更新时间：2025.11.1
+更新时间：2026.1.4
