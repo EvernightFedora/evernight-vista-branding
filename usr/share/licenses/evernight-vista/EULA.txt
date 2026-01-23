@@ -91,9 +91,7 @@ LVFS（Linux Vendor Firmware Service）（Linux 固件服务供应商）提供
 
 5 多语言。本《协议》可能会有更新，具体新内容一切以简体中文版本《协议》为准
 
-6 操作系统代号声明。Evernight Vista 43.1的操作系统代号是“Kairiki”，但是“Kairiki”与Kairiki Bear本人没有任何关系，“Kairiki”只是一个Evernight Vista操作系统代号。
-
-7 EULA更新。本《协议》可能会有更新，之前的《协议》将全部失效。一切以最新EULA为准
+6 EULA更新。本《协议》可能会有更新，之前的《协议》将全部失效。一切以最新EULA为准
 
 © Evernight Vista Team 保留所有权利。
-更新时间：2026.1.22
+更新时间：2026.1.20
