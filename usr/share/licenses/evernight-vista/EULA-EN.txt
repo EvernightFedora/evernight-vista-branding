@@ -40,6 +40,8 @@ They are all fan-made secondary creations of 'Honkai: Star Rail.' The 'Evernight
 
 2.3 Tampering. It is strictly prohibited to deliberately tamper with the logo or visual components of the Evernight Vista operating system software, engage in cyberbullying, create public opinion manipulation, or other improper behaviors; otherwise, this Agreement will be terminated and the infringing party held liable.
 
+2.4 Additional wallpapers and components. The Evernight Vista operating system software may additionally include certain wallpapers provided by the evernight-vista-wallpaper-extra package. Furthermore, leaking certain new wallpapers and/or new components before the official release (i.e., from the Testing repository to the main repository) is considered an act of leakage, and the developers of the Evernight Vista operating system software have the right to request administrators to stop such leaks.
+
 3. Device and Firmware Update Statement. The 'Evernight Vista Operating System' includes the fwupd component and is provided by LVFS (Linux Vendor Firmware Service). The 'Evernight Vista Operating System' does not guarantee against damages or data loss caused by using fwupd to update hardware or firmware.
 
 4. Questions Regarding This Agreement. If you have any questions about this End User License Agreement, or if for any reason you wish to contact Evernight Vista issues, please reach out to EvernightFedora on Bilibili, Xiaohongshu, or join the Evernight Planet QQ group.
@@ -48,5 +50,7 @@ They are all fan-made secondary creations of 'Honkai: Star Rail.' The 'Evernight
 
 6. EvernightFedora has no affiliation with Fedora, Red Hat, or miHoYo (Hoyoverse).
 
+7. EULA Updates. This Agreement may be updated, and all previous Agreements will become invalid. Everything is subject to the latest EULA.
+
 © Evernight Vista Team. All rights reserved.
-Last updated: January 15, 2026
+Last updated: January 20, 2026

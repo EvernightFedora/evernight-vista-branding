@@ -78,6 +78,9 @@ Evernight Vista 操作系统仅仅使用 Fedora 软件包、代码和存储库�
 2.3 恶搞。 严禁对Evernight Vista 操作系统软件中的Logo、外观组件进行故意恶搞、实施网络暴力、制造舆论等不正当行为，否则本《协议》
 终止并追究其侵权责任。
 
+2.4 额外壁纸和组件。 Evernight Vista操作系统软件可能会额外添加由evernight-vista-wallpaper-extra软件包提供的某些壁纸，此外，在正式版公布之前
+（即Testing源传送到主要源）泄漏某些新壁纸和（或新组件）是属于外泄行为，Evernight Vista 操作系统软件开发者一方有权可以进行向管理员请求停止外泄处理。
+
 3 设备、固件更新声明。‘长夜月操作系统’包含fwupd组件，并由
 LVFS（Linux Vendor Firmware Service）（Linux 固件服务供应商）提供
 ‘长夜月操作系统’不担保因使用fwupd更新硬件或固件带来的损坏或丢失数据
@@ -88,5 +91,7 @@ LVFS（Linux Vendor Firmware Service）（Linux 固件服务供应商）提供
 
 5 多语言。本《协议》可能会有更新，具体新内容一切以简体中文版本《协议》为准
 
+6 EULA更新。本《协议》可能会有更新，之前的《协议》将全部失效。一切以最新EULA为准
+
 © Evernight Vista Team 保留所有权利。
-更新时间：2026.1.15
+更新时间：2026.1.20
