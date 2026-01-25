@@ -44,23 +44,15 @@ EVERNIGHT VISTA 43.1 OPERATING SYSTEM
 它是完全独立于 Fedora 的项目，没有 Fedora 开发人员或各方参与。
 Evernight Vista 操作系统仅仅使用 Fedora 软件包、代码和存储库。
 
-1.5 用户界面/系统图标。‘长夜月操作系统’采用《崩坏：星穹铁道》的某些角色。
-整个‘长夜月操作系统’中的用户界面、系统图标都是非官方创作，完全遵守米哈游的相关版权协议。
-均属《崩坏：星穹铁道》同人二创。‘长夜月操作系统’采用KDE Plasma桌面环境，KDE Plasma
-是KDE e.V.注册的商标
+1.5 操作系统Logo。Evernight Vista操作系统Logo的著作权由长夜月玩Fedora版权所有，您不得进行二次逆向修改
 
-1.6 同人二创。 ‘长夜月操作系统’是一种《崩坏：星穹铁道》同人二创分发的操作系统
-并且属于这是一种爱好分发，完全遵守米哈游的相关同人二创的条款与条件
-所有 Evernight Vista 操作系统特定的软件包和代码修改均由长夜月玩Fedora项目组创建。
-没有任何公司员工正式参与其中。
+1.6 Nonfree仓库。Evernight Vista包含RPMFusion Nonfree仓库和Evernight Vista Nonfree仓库，请在使用前遵守其
+相关的版权
 
-1.7 商用限制。您不得对‘长夜月操作系统’进行商业用途并牟取利润，严禁在电商平台售卖‘长夜月操作系统’
-媒体介质以获得盈利，除非您获得长夜月玩Fedora项目组和米哈游公司的相关批准
-
-1.8 Evernight Vista 操作系统独立组件 如果你想使用Evernight Vista独立的组件（即RPM包）
+1.7 Evernight Vista 操作系统独立组件 如果你想使用Evernight Vista独立的组件（即RPM包）
 制作其他Linux发行版，则必须在显眼的地方注明
 
-1.9 安全启动私钥 该安全启动私钥仅用于Evernight Vista操作系统软件上使用，只能用于Evernight Vista Kernel
+1.8 安全启动私钥 该安全启动私钥仅用于Evernight Vista操作系统软件上使用，只能用于Evernight Vista Kernel
 签名使用，不得用于假冒、制作rootkit病毒、破解等其他非法行为。
 
 2 违反本《协议》的处理。如果您违反了本《协议》
@@ -70,16 +62,8 @@ Evernight Vista 操作系统仅仅使用 Fedora 软件包、代码和存储库�
 2.1 未写清开源项目位置。如果您使用了修改过的'长夜月操作系统'，在您的视频平台上未写清开源项目的网址，
 长夜月玩Fedora项目组一律视为违反本《协议》和GPLV3开源许可协议
 
-2.2 修改壁纸作品。Evernight Vista操作系统包含《崩坏：星穹铁道》的某些角色。
-严禁对Evernight Vista操作系统的部分外观组件进行丑化、恶意P图，甚至违反国家法律法规
-等对侵害长夜月玩Fedora项目组和米哈游公司的合法权利，否则，长夜月玩Fedora项目组一律视为
-侵犯著作权
-
-2.3 恶搞。 严禁对Evernight Vista 操作系统软件中的Logo、外观组件进行故意恶搞、实施网络暴力、制造舆论等不正当行为，否则本《协议》
-终止并追究其侵权责任。
-
-2.4 额外壁纸和组件。 Evernight Vista操作系统软件可能会额外添加由evernight-vista-wallpaper-extra软件包提供的某些壁纸，此外，在正式版公布之前
-（即Testing源传送到主要源）泄漏某些新壁纸和（或新组件）是属于外泄行为，Evernight Vista 操作系统软件开发者一方有权可以进行向管理员请求停止外泄处理。
+2.2 恶搞。 严禁对Evernight Vista 操作系统软件中的Logo、外观组件进行故意恶搞、实施网络暴力、制造舆论等不正当行为，否则本《协议》
+终止并追究其网络暴力责任。
 
 3 设备、固件更新声明。‘长夜月操作系统’包含fwupd组件，并由
 LVFS（Linux Vendor Firmware Service）（Linux 固件服务供应商）提供
@@ -89,9 +73,9 @@ LVFS（Linux Vendor Firmware Service）（Linux 固件服务供应商）提供
 何原因希望联系长夜月玩Fedora，请在B站（哔哩哔哩）、小红书或Evernight Planet QQ群
 中与长夜月玩Fedora联系。
 
-5 多语言。本《协议》可能会有更新，具体新内容一切以简体中文版本《协议》为准
+5 多语言。本《协议》可能会有更新，具体新内容一切以简体中文最新版本《协议》为准
 
 6 EULA更新。本《协议》可能会有更新，之前的《协议》将全部失效。一切以最新EULA为准
 
 © Evernight Vista Team 保留所有权利。
-更新时间：2026.1.20
+更新时间：2026.1.26
