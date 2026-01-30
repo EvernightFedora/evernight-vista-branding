@@ -2,13 +2,13 @@ KairikiFedora Software End User License Agreement (English)
 
 EVERNIGHT VISTA 43.1 OPERATING SYSTEM
 
-Important Notice - Please Read Carefully: This End User License Agreement ("Agreement") is a legal agreement between you (an individual or a single entity) and the KairikiFedora Project Team ("KairikiFedora") or one of its affiliates concerning the KairikiFedora software provided with this Agreement, which includes computer software and may include associated media, printed materials, 'online' or electronic documentation, and Internet-based services ("Evernight Vista Operating System"). An amendment or supplemental provision to this Agreement may be provided with the 'Evernight Vista Operating System'.
+Important Notice - Please Read Carefully: This End User License Agreement ("Agreement") is a legal agreement between you (an individual or a single entity) and the KairikiFedora Team ("KairikiFedora") or one of its affiliates concerning the KairikiFedora software provided with this Agreement, which includes computer software and may include associated media, printed materials, 'online' or electronic documentation, and Internet-based services ("Evernight Vista Operating System"). An amendment or supplemental provision to this Agreement may be provided with the 'Evernight Vista Operating System'.
 
 This list highlights some of the changes. The use of this software is subject to the following terms.
 
 By installing, copying, or otherwise using the 'Evernight Vista Operating System,' you agree to be bound by the terms of this Agreement. If you do not agree to the terms of this Agreement, do not install, copy, or use the 'Evernight Vista Operating System'.
 
-1. Grant of License. The KairikiFedora Project Team grants you the following rights, provided that you comply with all the terms and conditions of this Agreement:
+1. Grant of License. The KairikiFedora Team grants you the following rights, provided that you comply with all the terms and conditions of this Agreement:
 
 1.1 Installation and Use. You may install, use, access, display, and run multiple copies of the 'Evernight Vista Operating System' on a single computer, such as a workstation, terminal, or similar device ('workstation computer'). In addition, the 'Evernight Vista Operating System' can be used on more than two (2) processors of any 'workstation computer' at any time.
 
@@ -28,9 +28,9 @@ By installing, copying, or otherwise using the 'Evernight Vista Operating System
 
 1.8 Secure Boot Private Key. This secure boot private key is only to be used with Evernight Vista operating system software and can only be used for Evernight Vista Kernel signing. It must not be used for counterfeiting, creating rootkits, cracking, or other illegal activities.
 
-2. Handling Violations of This Agreement. If you violate this Agreement, without prejudice to any other rights, the KairikiFedora Project Team has the right to terminate this Agreement and, depending on the circumstances, file infringement complaints or pursue liability for infringement.
+2. Handling Violations of This Agreement. If you violate this Agreement, without prejudice to any other rights, the KairikiFedora Team has the right to terminate this Agreement and, depending on the circumstances, file infringement complaints or pursue liability for infringement.
 
-2.1 Failure to Clearly Indicate the Open Source Project Location. If you use a modified 'Evernight Vista Operating System' and do not clearly provide the URL of the open-source project on your video platform, the KairikiFedora Project Team will consider it a violation of this Agreement and the GPLV3 open-source license.
+2.1 Failure to Clearly Indicate the Open Source Location. If you use a modified 'Evernight Vista Operating System' and do not clearly provide the URL of the open-source project on your video platform, the KairikiFedora Team will consider it a violation of this Agreement and the GPLV3 open-source license.
 
 2.2 Tampering. It is strictly prohibited to deliberately tamper with the logo or visual components of the Evernight Vista operating system software, engage in cyberbullying, create public opinion manipulation, or other improper behaviors; otherwise, this Agreement will be terminated and the infringing party held liable.
 
