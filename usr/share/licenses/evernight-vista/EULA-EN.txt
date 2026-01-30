@@ -20,7 +20,7 @@ By installing, copying, or otherwise using the 'Evernight Vista Operating System
 
 1.4.1 Declaration. You understand that the Evernight Vista operating system is not a 'Fedora Spin.' It is a completely independent project from Fedora, with no participation from Fedora developers or affiliates. The Evernight Vista operating system only uses Fedora packages, code, and repositories.
 
-1.5 Operating System Logo. The copyright of the Evernight Vista system logo is owned by KairikiFedora. You are not allowed to reverse-engineer or modify it.
+1.5 Operating System Logo. The copyright of the Evernight Vista system logo is owned by KairikiFedora. You are not allowed to modify it.
 
 1.6 Nonfree Repositories. Evernight Vista includes the RPMFusion Nonfree repository and the Evernight Vista Nonfree repository. Please comply with their relevant copyright regulations before use.
 
@@ -43,4 +43,4 @@ By installing, copying, or otherwise using the 'Evernight Vista Operating System
 6. EULA Updates. This Agreement may be updated, and all previous Agreements will become invalid. Everything is subject to the latest EULA.
 
 © Evernight Vista Team. All rights reserved.
-Last updated: January 26, 2026
+Last updated: January 30, 2026

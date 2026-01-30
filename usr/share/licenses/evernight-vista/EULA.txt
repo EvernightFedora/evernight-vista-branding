@@ -44,7 +44,7 @@ EVERNIGHT VISTA 43.1 OPERATING SYSTEM
 它是完全独立于 Fedora 的项目，没有 Fedora 开发人员或各方参与。
 Evernight Vista 操作系统仅仅使用 Fedora 软件包、代码和存储库。
 
-1.5 操作系统Logo。Evernight Vista操作系统Logo的著作权由怪力熊玩Fedora版权所有，您不得进行二次逆向修改
+1.5 操作系统Logo。Evernight Vista操作系统Logo的著作权由怪力熊玩Fedora版权所有，您不得进行二次修改。
 
 1.6 Nonfree仓库。Evernight Vista包含RPMFusion Nonfree仓库和Evernight Vista Nonfree仓库，请在使用前遵守其
 相关的版权
@@ -78,4 +78,4 @@ LVFS（Linux Vendor Firmware Service）（Linux 固件服务供应商）提供
 6 EULA更新。本《协议》可能会有更新，之前的《协议》将全部失效。一切以最新EULA为准
 
 © Evernight Vista Team 保留所有权利。
-更新时间：2026.1.26
+更新时间：2026.1.30
