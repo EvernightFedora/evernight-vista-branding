@@ -1,6 +1,6 @@
 NAME="Evernight Vista"
 VERSION="44"
-RELEASE_TYPE=stable
+RELEASE_TYPE=development
 ID=fedora
 VERSION_ID=44
 VERSION_CODENAME="Tinker"
