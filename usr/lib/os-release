@@ -1,7 +1,8 @@
 NAME="Evernight Vista"
 VERSION="44"
 RELEASE_TYPE=development
-ID=fedora
+ID=evernight
+ID_LIKE=fedora
 VERSION_ID=44
 VERSION_CODENAME="Asahi"
 PLATFORM_ID="platform:f44"
