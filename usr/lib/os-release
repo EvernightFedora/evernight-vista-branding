@@ -1,10 +1,10 @@
 NAME="Evernight Vista"
 VERSION="44"
-RELEASE_TYPE=development
+RELEASE_TYPE=stable
 ID=evernight
 ID_LIKE=fedora
 VERSION_ID=44
-VERSION_CODENAME="Asahi"
+VERSION_CODENAME="Play on"
 PLATFORM_ID="platform:f44"
 PRETTY_NAME="Evernight Vista 44"
 ANSI_COLOR="0;38;2;114;184;220"
