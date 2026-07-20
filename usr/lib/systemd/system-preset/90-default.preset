@@ -481,9 +481,6 @@ enable pci-latency.service
 # Enable Huawei MateBook Touchscreen
 enable huawei-touchscreen.service
 
-# Enable SCX Performance Engine
-enable scx_loader.service
-
 # Enable ananicy-cpp Engine
 enable ananicy-cpp.service
 
